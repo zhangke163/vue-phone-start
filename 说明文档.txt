@@ -1,0 +1,15 @@
+npm管网看
+安装vue-cli
+下载后运行npm run dev
+手动下载依赖
+npm install axios     //发起请求的
+移动端的组件库 mint-ui
+
+
+1、main.js中配置axios，给上公共的url
+2、App.vue写东西
+3、main.js中配置mini-ui
+4、App.vue中写上头部和底部的组件
+5、components里面写上各个页面的组件
+6、router里面配置组件路由
+7、App.vue页面监视路由和路由留坑
